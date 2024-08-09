@@ -1,0 +1,28 @@
+WINNER
+10
+JUST
+
+Python
+10
+Come, pass and get 100/100.
+
+Notice
+10
+The one of cutting-edge technoligies is... However I think... Although we can communicate with each other...
+
+Blockchain
+9
+You must have heard more than once about such a cutting-edge development of the 21st century as blockchain, but you didn't understand what it is. It's time to get to know her! Blockchain is a technology for encrypting and storing data (registry), which are distributed across a variety of computers connected to a common network. At the same time, this technology is a digital database of information that reflects all transactions made. Thus, the blockchain is used to create an immutable or perpetual registry (database) that tracks orders, payments, invoices and other transactions, while the technology does not allow data changes in it and is protected from almost all types of attacks and hacks. If the blockchain technology was aimed only at selling various cryptocurrencies (Bitcoin, Ethereum, Litecoin and others) and performing various transactions with virtual currencies in 2008, now blockchain technology is used in asset transfer transactions and sales of various services among large companies. Unlike previous versions of blockchain technology, now this technology has a high level of security and trust that modern digital transactions require, and its application possibilities are limitless thanks to public key cryptography and smart contracts. Thus, the blockchain technology is used in all areas where a high speed of information transmission with a high degree of protection is required: energy, finance, retail, multimedia and entertainment, and others. To give a concrete example: energy companies use blockchain for their trading platform for the sale of electricity between individuals, and owners of houses with solar panels use this platform to sell excess solar energy to neighbors. At the same time, the process is almost completely automated and secure: smart counters create transactions, and the blockchain records them, while it is impossible to mechanically interfere with the operation of the automated system and disrupt it. However, any system must have its vulnerabilities, and blockchain technology is no exception. Firstly, there is an attack called the "51% Attack", in which the attacking object or organization manages to take control of more than 50% of the total hashing power, which allows you to exclude transactions or change their order. However, due to its complexity and small benefits, no such attack has ever been carried out by hackers. Secondly, a huge information space is required to store all the data. Thirdly, this complex technology requires a huge consumption of electricity for its constant stable operation. Computer scientists are already working on these shortcomings and they may cope with them in the next 20 years.Thus, we can conclude that blockchain technology is another important stage in the development of information technology and it could become ubiquitous in the near future due to its reliability and security.
+
+New Day
+6
+Today is a sunny warm day. Nothing new or unusual.
+
+Start
+10
+Now we are talking about...
+
+Today.
+7
+bababa
+
